@@ -1,0 +1,9 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Core.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Core.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Core\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Core.pdb

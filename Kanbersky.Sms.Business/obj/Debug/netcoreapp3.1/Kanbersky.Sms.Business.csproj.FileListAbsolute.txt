@@ -1,0 +1,12 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Business.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Business.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Business.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\bin\Debug\netcoreapp3.1\Kanbersky.Sms.Core.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Sms\Kanbersky.Sms.Business\obj\Debug\netcoreapp3.1\Kanbersky.Sms.Business.pdb
